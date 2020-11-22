@@ -1,20 +1,28 @@
 {
-  "data": {
-    "name": {
-      "first": "",
-      "last": ""
-    },
-    "age": 0,
-    "email": "",
-    "phone": "",
-    "state": "",
-    "country": "",
-    "address": {
-      "home": "",
-      "work": ""
-    },
-    "interests": [],
-    "newsletter": false
-  },
-  "img": null
+  "data": [
+    {
+      "id": 1,
+      "name": {
+        "first": "",
+        "last": ""
+      },
+      "age": 0,
+      "email": "",
+      "phone": "",
+      "state": "",
+      "country": "",
+      "address": {
+        "home": "",
+        "work": ""
+      },
+      "interests": [],
+      "newsletter": false
+    }
+  ],
+  "img": [
+    {
+      "id": 1,
+      "src": null
+    }
+  ]
 }
