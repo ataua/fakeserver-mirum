@@ -2,19 +2,15 @@
   "data": [
     {
       "id": 1,
-      "name": {
-        "first": "Atauã",
-        "last": "Doederlein"
-      },
+      "first": "Atauã",
+      "last": "Doederlein",
       "age": 43,
       "email": "contato@ataua.com",
       "phone": "(41) 98865-2148",
       "state": "Paraná",
       "country": "Brasil",
-      "address": {
-        "home": "R Valdiva P Lima 368 casa 03 Curitiba",
-        "work": null
-      },
+      "home": "R Valdiva P Lima 368 casa 03 Curitiba",
+      "work": null,
       "interests": ["JavaScript", "React", "Pyhton"],
       "newsletter": false
     }
