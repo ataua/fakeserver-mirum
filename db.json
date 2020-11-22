@@ -1,20 +1,20 @@
 {
-  data: {
-    name: {
-      first: '',
-      last: ''
+  'data': {
+    'name': {
+      'first': '',
+      'last': ''
     },
-    age: 0,
-    email: '',
-    phone: '',
-    state: '',
-    country: '',
-    address: {
-      home: '',
-      work: ''
+    'age: 0,
+    'email': '',
+    'phone': '',
+    'state': '',
+    'country': '',
+    'address': {
+      'home': '',
+      'work': ''
     },
-    interests: [],
-    newsletter: false,
+    'interests': [],
+    'newsletter': false,
   },
-  img: null,
+  'img': null,
 }
